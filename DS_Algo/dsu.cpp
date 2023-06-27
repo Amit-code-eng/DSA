@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 class dsu_
