@@ -1,1 +1,0 @@
-{"name":"Local: sparse","url":"c:\\Users\\jaisw\\Desktop\\github\\repository\\DSA\\DS_Algo\\sparse.cpp","tests":[{"id":1688635791261,"input":"3\n1 4 1\n2\n1 1\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jaisw\\Desktop\\github\\repository\\DSA\\DS_Algo\\sparse.cpp","group":"local","local":true}
