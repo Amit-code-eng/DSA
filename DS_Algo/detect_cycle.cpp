@@ -67,6 +67,22 @@ bool cycle(ListNode* head){
 bool hasCycle(ListNode *head)
 {
 
+
+
+       
+        // if(head==NULL)return 0;
+        
+        // ListNode* slow=head,*fast=head;
+        
+        // do{
+            
+        //     if(fast->next==NULL || fast->next->next==NULL)return 0;
+        //     slow=slow->next;
+        //     fast=fast->next->next;
+        // }while(slow!=fast);
+        
+        // return 1;
+
     if (!head || !head->next)
         return 0;
 
